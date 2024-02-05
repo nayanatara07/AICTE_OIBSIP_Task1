@@ -1,6 +1,5 @@
 # AICTE_OIBSIP_Task1
-Calculator
-
+(Calculator)[https://nayanatara07.github.io/AICTE_OIBSIP_Task1/]
 ## Overview
 
 This repository contains the implementation of a simple calculator web application as part of the internship task for Oasis Infobyte. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, along with other functionalities like percentage calculation and clearing the input.
